@@ -16,5 +16,6 @@
     <author href="http://scratch.mit.edu/users/ACrazyBlueBlob" email="Ammon@Kludgeless.com">
         ACrazyBlueBlob
     </author>
+  <icon src="icon.png" />
 <icon src="icon-60@3x.png" platform="ios" width="180" height="180" />
 </widget>
